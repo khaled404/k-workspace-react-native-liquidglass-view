@@ -1,0 +1,53 @@
+{
+  "name": "@k-workspace/react-native-liquidglass-view",
+  "version": "0.1.0",
+  "description": "iOS 26 Liquid Glass effect for React Native — UIGlassEffect with configurable styles, shadows, press animations, and entrance transitions.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "react-native": "src/index",
+  "source": "src/index",
+  "files": [
+    "src",
+    "lib",
+    "ios",
+    "react-native-liquidGlass-view.podspec",
+    "react-native.config.js",
+    "!**/__tests__"
+  ],
+  "scripts": {
+    "build": "tsc --project tsconfig.build.json",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "liquid-glass",
+    "glass-effect",
+    "ios26",
+    "uiglasseffect",
+    "blur",
+    "glassmorphism",
+    "apple",
+    "native-module"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/techytypes/react-native-liquidGlass-view.git"
+  },
+  "author": "techytypes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/techytypes/react-native-liquidGlass-view/issues"
+  },
+  "homepage": "https://github.com/techytypes/react-native-liquidGlass-view#readme",
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-native": ">=0.73.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "react": "^18.0.0",
+    "react-native": "^0.84.0",
+    "typescript": "^5.0.0"
+  }
+}

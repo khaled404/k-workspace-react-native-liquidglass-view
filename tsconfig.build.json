@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "lib",
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "strict": true,
+    "jsx": "react-jsx",
+    "module": "ES2015",
+    "moduleResolution": "node",
+    "target": "ES2017",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "lib": ["ES2017"]
+  },
+  "include": ["src"],
+  "exclude": ["lib", "node_modules"]
+}
