@@ -4,6 +4,10 @@ iOS 26 Liquid Glass effect for React Native. Wraps Apple's native `UIGlassEffect
 
 > **iOS 26+ only.** On older iOS versions and Android, a translucent fallback view is rendered automatically.
 
+## Demo
+
+[assets/exampls.mov](assets/exampls.mov)
+
 ## Installation
 
 ```bash

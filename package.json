@@ -1,6 +1,6 @@
 {
   "name": "@k-workspace/react-native-liquidglass-view",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "iOS 26 Liquid Glass effect for React Native — UIGlassEffect with configurable styles, shadows, press animations, and entrance transitions.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
