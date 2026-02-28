@@ -32,14 +32,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/techytypes/react-native-liquidGlass-view.git"
+    "url": "https://github.com/khaled404/k-workspace-react-native-liquidglass-view"
   },
-  "author": "techytypes",
+  "author": "khaled404",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/techytypes/react-native-liquidGlass-view/issues"
+    "url": "https://github.com/khaled404/k-workspace-react-native-liquidglass-view/issues"
   },
-  "homepage": "https://github.com/techytypes/react-native-liquidGlass-view#readme",
+  "homepage": "https://github.com/khaled404/k-workspace-react-native-liquidglass-view#readme",
   "peerDependencies": {
     "react": ">=18.0.0",
     "react-native": ">=0.73.0"

@@ -3,11 +3,11 @@ Pod::Spec.new do |s|
   s.version        = '0.1.0'
   s.summary        = 'iOS 26 Liquid Glass effect for React Native'
   s.description    = 'Native UIGlassEffect wrapper for React Native with configurable styles, shadows, press animations, entrance transitions, and glass container merging.'
-  s.author         = 'techytypes'
-  s.homepage       = 'https://github.com/techytypes/react-native-liquidGlass-view'
+  s.author         = 'khaled404'
+  s.homepage       = 'https://github.com/khaled404/k-workspace-react-native-liquidglass-view'
   s.license        = { :type => 'MIT' }
   s.platforms      = { :ios => '15.1' }
-  s.source         = { :git => 'https://github.com/techytypes/react-native-liquidGlass-view.git', :tag => s.version.to_s }
+  s.source         = { :git => 'https://github.com/khaled404/k-workspace-react-native-liquidglass-view.git', :tag => s.version.to_s }
   s.static_framework = true
 
   s.dependency 'React-Core'
