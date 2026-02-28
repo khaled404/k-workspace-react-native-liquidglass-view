@@ -6,7 +6,7 @@ iOS 26 Liquid Glass effect for React Native. Wraps Apple's native `UIGlassEffect
 
 ## Demo
 
-[assets/exampls.mov](assets/exampls.mov)
+[assets/exampls.mp4](assets/exampls.mp4)
 
 ## Installation
 
